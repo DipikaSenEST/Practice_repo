@@ -1,2 +1,2 @@
 # Practice_repo
-for practice purpose
+error fix
